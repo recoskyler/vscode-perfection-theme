@@ -3,7 +3,7 @@
   "displayName": "Perfection Dark",
   "publisher": "recoskyler",
   "license": "Apache License Version 2.0, January 2004",
-  "icon": "https://raw.githubusercontent.com/recoskyler/vscode-perfection-theme/main/icon.png",
+  "icon": "icon.png",
   "description": "A (relatively) perfect dark VS Code color theme.",
   "version": "0.0.1",
   "engines": {
