@@ -1,0 +1,40 @@
+{
+  "name": "vscode-perfection-theme",
+  "displayName": "Perfection Dark",
+  "publisher": "recoskyler",
+  "license": "",
+  "icon": "",
+  "description": "A (relatively) perfect dark VS Code color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "onedark",
+    "one",
+    "dark",
+    "pro"
+    "onedark pro",
+    "one dark pro",
+    "darker",
+    "perfect",
+    "perfection",
+    "color",
+    "pink",
+    "gray",
+    "grey"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Perfection Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Perfection Dark-color-theme.json"
+      }
+    ]
+  }
+}
