@@ -2,8 +2,8 @@
   "name": "vscode-perfection-theme",
   "displayName": "Perfection Dark",
   "publisher": "recoskyler",
-  "license": "",
-  "icon": "",
+  "license": "Apache License Version 2.0, January 2004",
+  "icon": "https://raw.githubusercontent.com/recoskyler/vscode-perfection-theme/main/icon.png",
   "description": "A (relatively) perfect dark VS Code color theme.",
   "version": "0.0.1",
   "engines": {
@@ -17,7 +17,7 @@
     "onedark",
     "one",
     "dark",
-    "pro"
+    "pro",
     "onedark pro",
     "one dark pro",
     "darker",
@@ -36,5 +36,9 @@
         "path": "./themes/Perfection Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/recoskyler/vscode-perfection-theme.git"
   }
 }
