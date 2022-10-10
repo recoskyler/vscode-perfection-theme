@@ -6,3 +6,5 @@ A (relatively) perfect dark theme for VS Code.
 
 - One Dark (Darker/Pro)
 - Sweet
+
+![Screenshot](screenshot.png)
