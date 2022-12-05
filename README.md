@@ -1,5 +1,7 @@
 # Perfection Dark
 
+<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png' border='0' alt='Available in Chrome Web Store' />
+
 A (relatively) perfect dark theme for VS Code.
 
 **Inspired by:**
