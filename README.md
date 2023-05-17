@@ -9,7 +9,7 @@ A (relatively) perfect dark theme for VS Code.
 - One Dark (Darker/Pro)
 - Sweet
 
-![Screenshot](screenshot.webp)
+![Screenshot](screenshot.png)
 
 ### [Perfection Dark on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=recoskyler.vscode-perfection-theme&ssr=false#review-details)
 
